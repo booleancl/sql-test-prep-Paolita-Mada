@@ -1,0 +1,16 @@
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/migrations/00-create_database.sql
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/migrations/01-create_customers_table.sql
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/migrations/02-create_products_table.sql
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/migrations/03-create_purchases_table.sql
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/migrations/04-create_details_table.sql
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/migrations/05-seed_data.sql
+
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/data/customers.csv
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/data/products.csv
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/data/purchase_details.csv
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/data/purchases.csv
+
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/queries/03-expensive-procucts.sql
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/queries/02-best-product.sql
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/queries/01-best-purchase.sql
+C:/Users/swanm/intro_dev/sql-test-prep-Paolita-Mada/queries/00-best-customer.sql
